@@ -1,0 +1,7 @@
+Package: unity-drive-ros-bridge
+Version: 0.0.1
+Maintainer: lizhenyu <lizhenyu [at] unity-drive.com>
+Description: ros-bridge
+Architecture: amd64
+Depends:
+
